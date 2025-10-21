@@ -1,0 +1,1 @@
+1.Define a base class called Animal with a method make_sound(). Implement derived classes like Dog, Cat, and Bird that override the make_sound() method to produce different sounds. Demonstrate polymorphism by calling the method on objects of different classes.
